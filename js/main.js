@@ -12,7 +12,7 @@ window.onscroll = () => {
 
 // Reviews Swiper
 var swiper = new Swiper('.reviews-content', {
-    slidesPerView: 3,
+    slidesPerView: 3  ,
     centeredSlides: true,
     spaceBetween: 30,
     autoplay: {
