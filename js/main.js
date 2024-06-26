@@ -53,9 +53,6 @@ var swiper = new Swiper('.reviews-content', {
       });
   }
 
-
-
-  
   function emptyerror() {
     swal({
       title: "Oh No...",
